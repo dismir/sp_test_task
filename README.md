@@ -19,6 +19,7 @@ Create script that will:
 
 ## Usage
 
-1. Successfully finish `bundle install` to install proper devendencies
-2. Run script with `./parser.rb webserver.log`
-3. Run testds with `rspec spec/parser_spec.rb`
+1. Navigate to app folder: `cd ruby_app`
+2. Successfully finish `bundle install` to install proper devendencies
+3. Run script with `./parser.rb webserver.log`
+4. Run testds with `rspec spec/parser_spec.rb`
